@@ -135,5 +135,5 @@ friends: [
     }
 ]
 
-theme: jekyll-theme-cayman
+theme: jekyll-theme-slate
 gems: [jekyll-paginate]

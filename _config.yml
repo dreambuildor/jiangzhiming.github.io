@@ -136,3 +136,4 @@ friends: [
 ]
 
 theme: jekyll-theme-cayman
+gems: [jekyll-paginate]
